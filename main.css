@@ -11,7 +11,7 @@ body {
   float: left;
 }
 .Second {
-  z-index: 6;
+  z-index: 5;
   background: blue;
   width: 50%;
   float: left;
