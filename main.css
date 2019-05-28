@@ -6,8 +6,13 @@ body {
 
 .First {
   z-index: 6;
-  position: fixed;
-  left: 80px;
-  top: 100px;
   background: red;
+  width: 40%;
+  float: left;
+}
+.Second {
+  z-index: 6;
+  background: blue;
+  width: 50%;
+  float: left;
 }
